@@ -1,0 +1,164 @@
+﻿Week 1 - Documentation
+Team Meeting - 
+Nathan and I have decided on the type of website we wish to create, the website will allow users to view a synopsis of top rated shows/movies from different genres, as well as providing multiple websites to watch the full shows/movie.
+
+
+Stakeholders - 
+Currently the stakeholders for our project are Nathan and I, as well as Noor Alani (tutor). This project will be created by Nathan and I to present to Noor Alani.
+
+
+Division  of Labour - 
+Our first milestone consisted of choosing a final design for our homepage, we got together and brainstormed some possible ideas, we ended up picking our favorites and it was a unanimous decision after that. Because of our experience with HTML and CSS, we decided to use a much more simple design so we could develop it properly and evolve it as the project goes on. We plan on splitting the rest of the work equally by designing the other pages together and then splitting those in half, thus the work was done by both however half of the website will be coded by each person. 
+Project Charter
+	Project Title:
+	AnyFLIX Website
+	Project Manager:
+	Nathan/Phillip
+	Project Time limit:
+	03/05/21 – 07/06/21
+	Project Sponsor:
+	Nathan/Phillip
+	Business Need
+	There are very few websites that just simply allow you to see what movies and shows are popular at the moment without having constant annoying advertisements or pop ups so I think the need for a clean website with only well-known and trusted ads is needed in the industry as a safe place for the average bored person to look for something to fill their time with and watch.
+	Project Scope
+	Deliverables
+	Create a working website that allows the user to view top popular/new movies in a list and allow them to view trailers, summaries, and links to where to view the movie on one simple page not taking them to other sites that do not comfort them.
+	A safe and simple website for users to find a film or show to fill their boredom without any worries
+	Risks/issues
+	Assumptions/Dependencies
+	Links on the internet change all the time to constant checking to make sure all the information intended for the user is still relevant and usable.
+	Depends on us to keep the lists relevant and updated. Possible constraints could be error tolerance as we are not professional Coders, accessibility as colour blind people may have trouble.
+	Milestone Schedule
+	Milestone
+	Target completion date
+	Actual completion
+	Complete plan and choose home page design/create it
+	May 20th 2021
+	TBD
+	Fulling completed list pages with information and data present for the user to view.
+	June 7th 2021
+	TBD
+	Project Team
+	Approval /Review Committee
+	Project Manager:
+	Nathan/Phillip
+	Project Sponsor:
+	Nathan/Phillip
+	Technical lead:
+	Nathan/Phillip
+	Business Division Head:
+	Nathan/Phillip
+	Team members:
+	Nathan/Phillip
+	Business Unit Head:
+	Nathan/Phillip
+	Finance Manager:
+	Nathan/Phillip
+	
+
+Weekly Progress Update:
+This week, Nathan and I were able to get our homepage designed. Nathan and I developed some designs between the two of us and picked our preferences while also evaluating each design. The last design is the design we chose in the end. We got together and decided on some features that we could add.   
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+This design was not used as it was too bland and basic, the colours weren’t really eye-catching in any way and everything kind of just blends in together, The lack of pictures made it just a simple page with lettering and that’s not ideal.
+As we have minimal skill level when it comes to HTML and CSS, the diagonal segmentation could give someone like us quite a bit of grief thus this is not ideal. This design feels like we’re putting too many categories into one big category, the navigation might be a bit cluttered. 
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+This design has more functionality and colour than the last design. This design seems like it could be a handful to get the positioning of things correctly, or even getting certain things such as links to work properly. This design could produce a lot of issues in the early stages of developing if the links don’t work properly to begin with.
+
+
+This design was not picked as it could put us in very unfortunate situations if the diagonal positioning becomes difficult to execute. 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This design looks far better than the previous two designs. This design is intended to have slideshows of possible shows/movies as well as a search bar under the logo.
+I don’t know how the diagonal segmentations keep sliding into the designs. The design would add a bit of difficulty with the diagonal segmentations as it could be difficult to both set them up and make sure everything is in the right place after we add/move something. The search bar looks like it could be quite difficult to create and make sure it’s in the right spot, as well as the function working correctly.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This design is my favorite and the final design of our homepage. Each of the categories have images of “box art” of shows/movies and are displayed via slideshow on the front page. Each picture will link to the page the picture is on. This design was chosen as it looks like there is a lot of potential behind this design, even though the design is simple, it can be updated easily as we need to. We may be able to add features from previous designs and implement them into this design such as the search function.
