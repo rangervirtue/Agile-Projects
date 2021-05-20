@@ -1,0 +1,64 @@
+﻿Team Meeting
+Nathan and I spent a few days reviewing the designs we each came up with. We discussed the pros and cons of each design. Based on this we’ve picked a final design. I was a little ahead last week and thought we had already made a decision. We’ve started on developing the code while also looking for images, video links that we will embed for each page. 
+
+
+Stakeholders
+Currently the stakeholders for our project are Nathan and I, as well as Noor Alani (tutor). This project will be created by Nathan and I to present to Noor Alani.
+Project Charter
+Project Charter
+	Project Title:
+	AnyFLIX Website
+	Project Manager:
+	Nathan/Phillip
+	Project Time limit:
+	03/05/21 – 07/06/21
+	Project Sponsor:
+	Nathan/Phillip
+	Business Need
+	There are very few websites that just simply allow you to see what movies and shows are popular at the moment without having constant annoying advertisements or pop ups so I think the need for a clean website with only well-known and trusted ads is needed in the industry as a safe place for the average bored person to look for something to fill their time with and watch.
+	Project Scope
+	Deliverables
+	Create a working website that allows the user to view top popular/new movies in a list and allow them to view trailers, summaries, and links to where to view the movie on one simple page not taking them to other sites that do not comfort them.
+	A safe and simple website for users to find a film or show to fill their boredom without any worries
+	Risks/issues
+	Assumptions/Dependencies
+	Links on the internet change all the time to constant checking to make sure all the information intended for the user is still relevant and usable.
+	Depends on us to keep the lists relevant and updated. Possible constraints could be error tolerance as we are not professional Coders, accessibility as colour blind people may have trouble.
+	Milestone Schedule
+	
+
+Milestone
+	Target completion date
+	Actual completion
+	Complete Plan, Individual designs, Choose desired design.
+	May 20th 2021
+	May 13th 2021
+	Complete Home page code, Find images and video links for embedding
+	May 28th 2021
+	TBD
+	Fulling completed list pages with information and data present for the user to view.
+	June 7th 2021
+	TBD
+	Project Team
+	Approval /Review Committee
+	Project Manager:
+	Nathan/Phillip
+	Project Sponsor:
+	Nathan/Phillip
+	Technical lead:
+	Nathan/Phillip
+	Business Division Head:
+	Nathan/Phillip
+	Team members:
+	Nathan/Phillip
+	Business Unit Head:
+	Nathan/Phillip
+	Finance Manager:
+	Nathan/Phillip
+	Description of Products
+This website will feature a number of “Top rated” films and shows between four categories with trailers, and websites that user’s are able to use to watch these films/shows. There are many different websites that do this, however they all seem to either review/critique shows and films from certain genres rather than our website which just provides a synopsis, the cover image, trailers and website links to watch the shows. This website is not going to have any monetary gain, it is purely a hobby.
+GUI
+Nathan and I have picked this homepage design as the final design, we’ll be looking at changing the colour scheme while also adding content to fill in the webpage.  
+Weekly Progress Update
+I did not attend Monday’s lecture, read through the synopsis and looked at the activities  I looked at the individual lab and completed that. Monday’s lecture was on Configuration Management (CM). The purpose of CM is to establish and maintain the integrity of all of the identified outputs of a project or process, also making them available to concerned parties. Complicated issues can arise in the absence of configuration management such as; source-code loss, libraries failing unexpectedly, difficulty to establish when changes were made, why, and by whom. The benefits however include; increasing organisational memory, offer traceability, and more documentation about the product evolution
+In Thursday's class, we talked about documentation. Documentation is important as it shows the product’s changelog/history. Documentation is also used to describe, explain or instruct regarding attributes of software. When documenting changes make sure you; cover all features, usage modes, and interface. Documentation also needs to match the software hardware, or the target device, and also needs to be locally organized. Documentation should be embraced as an integral part of the overall development processes. To make writing documentation easier, keep the documentation in the code itself, this will reduce the chances the documentation will get messy while also having all documentation where it should be. Treat documentation the same way as code, this allows you to use an IDE (Integrated Developer Environments) to write it, use version control system to store it, and work with plain text files such as markup or basic .txt files.

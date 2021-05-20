@@ -1,0 +1,159 @@
+﻿Team Meeting
+This week Nathan and I have gotten our homepage to a working state, however it is not completely finished yet. The video links and picture links for the other pages have been obtained and stored for embedding. Nathan and I have started discussing and designing the other category pages for the website.
+
+
+Stakeholders
+Currently the stakeholders for our project are Nathan and I, as well as Noor Alani (tutor). This project will be created by Nathan and I to present to Noor Alani.
+Pseudo Code
+Users will be able to click on one of the titles, pictures, or a category in the nav bar. Doing this will take the user to the selected category where the user will be able to select a film/show that may show interest to them.   
+After clicking a category, the user will be able to click on the title from a selection of top rated recommended films/shows, this will take the user to the films/shows page. Users will be able to view the images of the slide show by pressing the arrows. Clicking the image will take the user to the corresponding films/shows page.  
+
+
+The films/shows page will give the user a synopsis of the film/show and also provide trailers. The user will be able to play the trailer of the selected film/show by clicking the play button on the embedded video. The page will also provide the user links where they can stream the film such as disney plus/netflix. A rating system has yet to be implemented however there will be a rating system available for users to rank from 1-5 stars. If the user wishes to return to the homepage or any of the other categories, they only need to click on the website title “Anyflix” as it is linked to the homepage, or just simply click the category they wish to visit on the nav bar.  
+  
+
+
+
+Project Charter
+Project Charter
+	Project Title:
+	AnyFLIX Website
+	Project Manager:
+	Nathan/Phillip
+	Project Time limit:
+	03/05/21 – 07/06/21
+	Project Sponsor:
+	Nathan/Phillip
+	Business Need
+	There are very few websites that just simply allow you to see what movies and shows are popular at the moment without having constant annoying advertisements or pop ups so I think the need for a clean website with only well-known and trusted ads is needed in the industry as a safe place for the average bored person to look for something to fill their time with and watch.
+	Project Scope
+	Deliverables
+	Create a working website that allows the user to view top popular/new movies in a list and allow them to view trailers, summaries, and links to where to view the movie on one simple page not taking them to other sites that do not comfort them.
+	A safe and simple website for users to find a film or show to fill their boredom without any worries
+	Risks/issues
+	Assumptions/Dependencies
+	Links on the internet change all the time to constant checking to make sure all the information intended for the user is still relevant and usable.
+	Depends on us to keep the lists relevant and updated. Possible constraints could be error tolerance as we are not professional Coders, accessibility as colour blind people may have trouble.
+	Milestone Schedule
+	
+
+Milestone
+	Target completion date
+	Actual completion
+	Complete Plan, Individual designs, Choose desired design.
+	May 20th 2021
+	May 13th 2021
+	Complete Home page code, Find images and video links for embedding.
+	May 28th 2021
+	TBD
+	Discuss and design other category pages
+	May 28th 2021
+	TBD
+	Fulling completed list pages with information and data present for the user to view.
+	June 7th 2021
+	TBD
+	Project Team
+	Approval /Review Committee
+	Project Manager:
+	Nathan/Phillip
+	Project Sponsor:
+	Nathan/Phillip
+	Technical lead:
+	Nathan/Phillip
+	Business Division Head:
+	Nathan/Phillip
+	Team members:
+	Nathan/Phillip
+	Business Unit Head:
+	Nathan/Phillip
+	Finance Manager:
+	Nathan/Phillip
+	Description of Products
+This website will feature a number of “Top rated” films and shows between four categories with trailers, and websites that user’s are able to use to watch these films/shows. There are many different websites that do this, however they all seem to either review/critique shows and films from certain genres rather than our website which just provides a synopsis, the cover image, trailers and website links to watch the shows. This website is not going to have any monetary gain, it is purely a hobby.
+GUI
+Nathan and I have picked this homepage design as the final design, we’ll be looking at changing the colour scheme while also adding content to fill in the webpage.  
+Weekly Journal
+Monday: Models
+Models are used to describe the structures within software development projects. They are often used as banners of the various groups looking to improve software engineering. There are 8 different types of models: waterfall, incremental, prototype, spiral, v-model, cleanroom, RAD, agile and chaos. Each model has its own structure as well as its own advantages and disadvantages. Based on the different models, our project is following the incremental model as we have been doing our website in stages. 
+
+
+Waterfall: The waterfall model is a linear, phase based process meaning it is highly dependent on the previous phase. The advantages to this model are that the documentation is very thorough making it easy to read/understand, the progress is easily visible, easy to manage, better budget management and also there are less production issues. However because this model is dependent on the previous phase it makes it very difficult once moved on to return to the previous phase to fix things if there are problems occurring, this means that this model often can’t go backwards and having to restart the previous phase is likely if problems occur in the future phases. The waterfall model is not flexible, it doesn’t handle unexpected risks, terrible for long/complex projects and difficult to capture all requirements upfront.
+
+
+Incremental: The incremental model is also a linear process,however with this model, the requirements are well defined and each delivery builds upon the other. Deliverables are organised by priority using this model. The advantages to the incremental model are: there is less testing and/or reworking within each increment, changes can be made sooner, as well as a quicker time to the first deliverable. Using the incremental model means that you’re able to find bugs/issues and fix them before the next deployment. The disadvantages to the incremental model however are: The cumulative costs to the final product is unclear, as well as unanticipated architectural issues that may arise in later increments.
+
+
+Prototype: The prototype model allows for rapid development by using quick prototype to implement aspects of the final product. This model is still partially linear, however prototyping itself is cyclic and iterative, meaning each prototype will go through different iterations before continuing to the next part of the project. The prototype model involves a lot of user interaction in order to refine the requirements which also allows for risks to be assessed sooner within the project. The advantages of the prototype model are: reduced costs, increases stakeholder interaction meaning that the product is more easily tailored to the stakeholders requirements and preference, and assessing the risks earlier on in the project. 
+
+
+Spiral: The spiral model is an iterative waterfall model that emphasizes on the iterative planning. This model accommodates more complex, ambiguous and misunderstood problems. Each loop is a new phase, however the amount of phases can vary depending on the size of the project. The radius of the spiral represents the cost whereas the angle is the progress within said phase. Advantages for the spiral model include: risk reduction, easy cost estimation for each fragment, quick development times. Disadvantages include: Risk of exceeding the schedule/budget, this model requires expertise in risk management, needs to be strictly followed, and this model is not suitable to small projects.
+
+
+V: Also known as the verification and validation model the V-model is a sequential process model that maps each development phase to a test phase. Phases for this model proceed in order of increasing granularity. The advantages of the V-model include: a simple understanding and easy to use, increased quality, accurate progress tracking and highly disciplined. The disadvantages include: High risk and uncertainty, ill-suited to complex or long projects, doesn’t handle change well (hard to go back), nothing is concrete until midway through the process.
+
+
+Cleanroom: derived from semiconductor fabrication, the cleanroom model focusses on avoiding defects by using formal development and rigorous inspection processes. Based on incremental development, this model uses structured programming, static verification as well as statistical testing. The advantages to the cleanroom model include: high quality, more productivity and less reworking, reduced costs due to errors and maintenance, return in investment (ROI) once procedures are in place. Disadvantages of this model include: No unit testing, this model requires highly skilled training, also this method is very theoretical and mathematical.
+
+
+Rapid Application Development (RAD): RAD is usually applied to products with UI/UX, this model has short durations, plenty of prototyping and uses existing technologies to complete their products.
+
+
+Agile: is an Iterative and Incremental model, Agile has frequent deliveries as well as a high degree of customer interaction. The agile model adapts to change quicker than most models as well as reduces waste and enforces team empowerment. This model handles change well, as it is possible to add changes through each iteration. The product is able to reach the market faster e.g. the first iteration could be the Alpha phase, the second iteration could be the Beta phase and then the third iteration could be the full release. The agile model focuses on customer needs and transparency while also providing a lower risk and continuous innovation. Disadvantages of the agile model include: documentation getting ignored, it can be difficult to get senior management buy-in, and it’s hard to predict. 
+
+
+Chaos: The chaos model is a recursive model, it acknowledges the unpredictability of software development while combining a simple problem solving loop to describe the many levels of a complex project. All levels within this model matter equally, this model focuses on urgency and priority rather than following a roadmap. This model has a higher likelihood of completing projects within deadlines, however it is difficult to implement if problems are not well understood. 
+Thursday Week 3: Agile Methodologies
+Today we spoke about the different agile methodologies. There are 5 different methodologies that fall under the Agile umbrella: Lean SD, Kanban, XP, DevOps, and Scrum. Each methodology has its own principles that assist in Agile projects in their own way.
+
+
+Lean SD: is the original methodology that originated from the manufacturing sector, this methodology is derived from the Toyota production system which was created in the 1930s. This methodology is based on 7 key principles. 
+1. Eliminate Waste: (removing unnecessary code, unclear changes, partially done work and defects and quality issues)
+2. Build Quality In: (pair programming, test driven development, and automation)
+3. Create Knowledge: (wikis, code comments, knowledge, sharing sessions, training)
+4. Defer Commitment: (keep options open, contrantly collect information, no commit without full understanding, avoid detailed long term planning)
+5. Deliver Fast: (create simple solution, get feedback, and iterate)
+6. Respect People: (empowering each other, healthy resolution, communicating)
+7. Optimize the Whole: (eliminate vicious cycles by understanding capacity, teams are multi-disciplined, co-located, empower to deliver value)
+
+
+Kanban: is japanese for “billboard”, this methodology focuses on visualising workflow to highlight bottlenecks and prevent buildup of excess “inventory” in the production pipeline. This methodology uses a “pull” system based on need rather than a “push” system based on forecasts. The practices for this methodology should be strictly followed to be more likely to succeed. 
+Kanban has two types of principles, Change management and service delivery. Change management principle encourages acts of leadership at every level. Change management also focuses on the improvement through evolutionary change. The Service delivery principles allows for better understanding and focus on customer needs and expectations, evolving policies to improve outcomes and managing the work while letting people self organise around it. The practices of Kanban are:
+1.  Visualise
+2. Limit Work in Progress
+3. Manage Flow
+4. Explicit policies
+5. Feedback
+6. Improve/Evolve
+
+
+XP: This methodology stresses customer satisfaction and teamwork, as well as empowering developers to respond to changing requirements, even in the late life cycle. This methodology follows sets of values and rules in order to succeed.
+1. Planning: Write user stories, plan releases, divide into iterations and plan each
+2. Managing: Dedicated space, Daily stand-up meetings, measure project velocity, move people around.
+3. Designing: Simplicity, System metaphor, Spike solutions, No pre-empted functionality, Refactor.
+4. Coding: Customer always available, code standard is upheld, unit theses written first, Pair programming, One integration at a time but often on a dedicated machine, Collective ownership.
+5. Testing: All code must have unit tests, all tests must pass before release, Tests are created when bugs are found, Acceptance tests are run often, results are visible.
+
+
+DevOPs: is not quite under the agile banner, it combines software development and information technology operations. DevOPs focuses on improving interactions between these two functions to increase value to customers, the development and operations teams are more integrated together than being separate. DevOps uses the CALMS framework as its principle. 
+* Culture: Cross-functional collaboration
+* Automation: Building, Testing, Deployment, “configuration-as-code”
+* Lean: Continuous improvement, embracing failure
+* Measurement: Feature cycle time, bug frequency, recovery turnaround
+* Sharing: same people build, ship and support the product.
+
+
+Scrum: Is a framework for developing, delivering, and sustaining complex products. The scrum framework uses roles as a hierarchy for the development team, these include:
+* The Product Owner: One person who is held accountable for the work, this person can be a part of the development team. The product owner manages the product backlog.
+* The Development Team: is responsible for doing the work, cross-functional, empowered to manage their own work, and self organising.
+* The Scrum Master: This person promotes and supports the scrum practices, They are the servant-leader and also serves the product owner, development team and organisation.
+The scrum workflow:
+* Sprint:
+   * Timeboxed - fixed duration ~1 month or less
+   * No changes which threaten the sprint goal
+   * No quality changes
+   * Scope may change as new information arises
+* Contains:
+   * Sprint planning
+   * Daily Scrum
+   * Sprint Review
+   * Sprint Retrospective
